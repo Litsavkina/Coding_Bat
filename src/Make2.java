@@ -22,7 +22,6 @@ make2([], [1, 2]) → [1, 2]
             newArr [1] = b[0];
             return newArr;
         }
-        if (a.length == 0)
             return b;
 
     }
